@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="149" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="General",TVN
-https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token
+https://panel.miplay.cl:8081/tvn/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="General",MEGA
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="151" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="General",CHILEVISION
