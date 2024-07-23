@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="149" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="General",TVN
-http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:-1 tvg-id="150" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="General",MEGA
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="151" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="General",CHILEVISION
 https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="General",CANAL 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
-#EXTINF:-1 tvg-id="304" tvg-logo="" group-title="General",CARTOON NETWORK
+#EXTINF:-1 tvg-id="304" tvg-logo="" group-title="Kids",CARTOON NETWORK
 http://5.189.181.82/canales.php?cm=421&f=.m3u8
