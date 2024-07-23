@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="149" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="General",TVN
 https://r2---sn-njaeyn7z.c.2mdn.net/videoplayback/id/511a725fc0935e3e/itag/347/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3864901121/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source,xpc/signature/66894AC2D263EB96D6D1C3B396FD36764B0C2A78.5316BF0D51440FCE04CCC3DC3020127A875494C3/key/cms1/cms_redirect/yes/mh/Rv/mip/2803:c600:4112:842c:e64d:7c50:38e8:c4cc/mm/42/mn/sn-njaeyn7z/ms/onc/mt/1721746358/mv/m/mvi/2/pl/46/file/file.mp4
 #EXTINF:-1 tvg-id="150" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="General",MEGA
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+https://cl-a8-i-e-jr2.cdn.mdstrm.com/live-stream-secure/53d2c1a32640614e62a0e000/media_1200_20240723T150433_06373.ts?aid=53bc2bcae41e2d9c662e1ba7&uid=W0qxdnxquhM8WPOAw020BuJ3WJcE65b3&sid=mcvhTYAa1ULJqaFRfgZTxwG5L3Di79C0&pid=Y2IVrnmLI6mLkmIfANNoQeugnvhAjBgf&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=NVkrR7zdh1857TyJc9gzUkj7ShZuP6amx3nV6Z8sTPMR1hd21WNa6f43p39y4nw2viO1sovubfe&es=cl-a8-i-e-jr2.cdn.mdstrm.com&ote=1721833390296&ot=AYvp4wwL_JVYiPgJ0dYbbQ&proto=https&pz=cl
 #EXTINF:-1 tvg-id="151" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="General",CHILEVISION
 https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="General",CANAL 13
