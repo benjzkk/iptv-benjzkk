@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="149" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="General",TVN
-https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="150" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="General",MEGA
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="151" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="General",CHILEVISION
