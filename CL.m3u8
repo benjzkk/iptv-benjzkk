@@ -1,1 +1,9 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Undefined",Canal 13
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="Undefined",Chilevisión (CHV)
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Undefined",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="Undefined",Televisión Nacional de Chile (TVN)
+https://panel.miplay.cl:8081/tvn/index.m3u8?PlaylistM3UCL
