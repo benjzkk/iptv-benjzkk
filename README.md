@@ -1,6 +1,4 @@
-<h1 align="center">IPTV CHILE</h1>
-
-## Lista de canales
+<h1 align="center">IPTV CHILE - Lista de Canales</h1>
 - MEGA (General)
 - CHILEVISION  (General)
 - CANAL 13 (Kids)
