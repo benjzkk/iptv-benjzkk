@@ -10,3 +10,6 @@ https://m3u.cl/channel/c13.php
 
 #EXTINF:-1 tvg-id="312" tvg-logo="" group-title="General",DISNEY CHANNEL
 http://168.181.122.234:8000/play/a038/index.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",ADULT SWIM
+ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8 
