@@ -1,7 +1,4 @@
 <h1 align="center">IPTV CHILE - Lista de Canales</h1>
 
 ### General
-`MEGA (150)` `CHILEVISION (151)` `CANAL 13 (152)`
- 
-### Kids
-`DISNEY CHANNEL (312)`
+`TVN (149)` `MEGA (150)` `CHILEVISION (151)` `CANAL 13 (152)` `ADULT SWIM (220)` `DISNEY CHANNEL (312)`
