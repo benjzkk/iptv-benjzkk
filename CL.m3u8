@@ -2,12 +2,3 @@
 
 #EXTINF:-1 tvg-id="152" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="General",CANAL 13
 https://m3u.cl/channel/c13.php
-
-#EXTINF:-1 tvg-id="600" tvg-logo="https://www.vtr.com/file/general/519015170.png" group-title="General", TNT SPORT HD
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/34676.m3u8
-
-#EXTINF:-1 tvg-id="601" tvg-logo="https://www.vtr.com/file/general/518992474.png" group-title="General", TNT SPORT 2
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/34674.m3u8
-
-#EXTINF:-1 tvg-id="602" tvg-logo="https://www.vtr.com/file/general/518996442.png" group-title="General", TNT SPORT 3
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/123887.m3u8
