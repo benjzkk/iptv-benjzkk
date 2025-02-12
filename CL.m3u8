@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="152" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="General",CANAL 13
 https://m3u.cl/channel/c13.php
+
+#EXTINF:-1 tvg-id="304" tvg-logo="http://i62.tinypic.com/4ug93n.jpg",CARTOON NETWORK
+http://latino-webtv.ml/mariocs.php?ch=320&cl=03
